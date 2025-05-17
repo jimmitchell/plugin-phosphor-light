@@ -1,0 +1,8 @@
+{
+	"version": "1.0.0",
+	"title": "Phosphor Light Icons",
+	"description": "Adds Phosphor Light icons to your blog, available for use in templates",
+	"includes": [
+		"/css/phosphor-light-style.css"
+	]  
+}
