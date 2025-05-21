@@ -3,6 +3,7 @@
 	"title": "Phosphor Light Icons",
 	"description": "Adds Phosphor Light icons to your blog, available for use in templates",
 	"includes": [
+		"phosphor-light-preload.html",
 		"/css/phosphor-light-style.css"
 	]  
 }
